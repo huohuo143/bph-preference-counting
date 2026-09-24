@@ -1,0 +1,34 @@
+{
+  "profile": "fafu-2023-v1",
+  "skill_version": "1.0.0",
+  "case_date": "2026-09-16",
+  "original_result_directory": "/Volumes/115/Codex/取食偏好/analysis_results/褐飞虱偏好_20260916",
+  "detector_fingerprint": "24cc7e7f926b5b7e",
+  "expected_total": 26403,
+  "groups": {
+    "A": {
+      "label": "ZH11 B3-OE",
+      "n": 8019,
+      "plants_per_side": 5
+    },
+    "B": {
+      "label": "BPH33",
+      "n": 7462,
+      "plants_per_side": 5
+    },
+    "C": {
+      "label": "BPH33回补",
+      "n": 10922,
+      "plants_per_side": 4
+    }
+  },
+  "initial_model_visual_passed_groups": [
+    "A"
+  ],
+  "all_groups_count_acceptance_completed": false,
+  "independent_human_expert_acceptance_completed": false,
+  "source_originals_bundled": false,
+  "inference_models_bundled": true,
+  "training_feature_matrix_bundled": false,
+  "training_replay_bitwise_guaranteed": false
+}

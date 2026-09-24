@@ -1,0 +1,4 @@
+interface:
+  display_name: "褐飞虱数量曲线图"
+  short_description: "从逐张照片生成褐飞虱数量时间曲线，连续衔接并标注衔接位置，交付成图"
+  default_prompt: "使用 $bph-preference-counting 分析这些照片，最终输出虫子数量随时间变化的中文曲线图，停拍处连续衔接并标注衔接位置，展示PNG并提供SVG和PDF，保留待复核状态。"

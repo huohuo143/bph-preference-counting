@@ -1,0 +1,266 @@
+{
+  "skill_version": "1.0.0",
+  "validated_at": "2026-09-16T20:34:36.658650+08:00",
+  "inventory": [
+    {
+      "group": "A",
+      "n": 8019,
+      "first": "2023-05-25 21:19:54",
+      "last": "2023-05-26 19:57:44",
+      "intervals": {
+        "10.0": 8003,
+        "11.0": 7,
+        "9.0": 7,
+        "1300.0": 1
+      },
+      "elapsed_hours": 22.630555555555556,
+      "potentially_observed_hours": 22.269444444444446,
+      "timestamp_duplicates": 0,
+      "metadata_errors": 0
+    },
+    {
+      "group": "B",
+      "n": 7462,
+      "first": "2023-05-26 20:27:03",
+      "last": "2023-05-27 20:46:23",
+      "intervals": {
+        "10.0": 7454,
+        "11.0": 3,
+        "9.0": 3,
+        "12960.0": 1
+      },
+      "elapsed_hours": 24.322222222222223,
+      "potentially_observed_hours": 20.72222222222222,
+      "timestamp_duplicates": 0,
+      "metadata_errors": 0
+    },
+    {
+      "group": "C",
+      "n": 10922,
+      "first": "2023-05-27 21:02:33",
+      "last": "2023-05-29 06:38:23",
+      "intervals": {
+        "10.0": 10913,
+        "11.0": 3,
+        "9.0": 3,
+        "30.0": 1,
+        "11730.0": 1
+      },
+      "elapsed_hours": 33.59722222222222,
+      "potentially_observed_hours": 30.330555555555556,
+      "timestamp_duplicates": 0,
+      "metadata_errors": 0
+    }
+  ],
+  "native_smoke": {
+    "checked_at": "2026-09-16T20:32:51.948250+08:00",
+    "frames": [
+      {
+        "sample_id": "A_cal_01",
+        "hash_and_counts_match": true
+      },
+      {
+        "sample_id": "A_val_15",
+        "hash_and_counts_match": true
+      },
+      {
+        "sample_id": "B_cal_01",
+        "hash_and_counts_match": true
+      },
+      {
+        "sample_id": "B_val_15",
+        "hash_and_counts_match": true
+      },
+      {
+        "sample_id": "C_cal_01",
+        "hash_and_counts_match": true
+      },
+      {
+        "sample_id": "C_val_29",
+        "hash_and_counts_match": true
+      },
+      {
+        "sample_id": "C_val_30",
+        "hash_and_counts_match": true
+      }
+    ],
+    "scope": "冻结检测器数值复现；不是新的准确性验收"
+  },
+  "historical_checkpoint": {
+    "checked_at": "2026-09-16T20:27:58.296957+08:00",
+    "n_records": 26403,
+    "expected_total": 26403,
+    "all_records_present": true,
+    "mismatch_count": 0,
+    "first_100_mismatches": [],
+    "accuracy_acceptance_is_separate": true,
+    "test_scope": "读取已有全量检查点验证完整性与候选计数；本测试未重新检测原图"
+  },
+  "statistics": {
+    "checked_at": "2026-09-16T20:23:11.703679+08:00",
+    "matched_tables": [
+      {
+        "table": "data/主统计_仅初检达标范围/全部时间窗统计.csv",
+        "rows": 586
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/分析时间缺口.csv",
+        "rows": 18383
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/总体汇总.csv",
+        "rows": 3
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/拼接时间与原始时间对应.csv",
+        "rows": 2
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/每5分钟统计_有效时间.csv",
+        "rows": 268
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/每5分钟统计_真实时间.csv",
+        "rows": 272
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/真实时间分段绘图数据.csv",
+        "rows": 269
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/逐小时统计_有效时间.csv",
+        "rows": 23
+      },
+      {
+        "table": "data/主统计_仅初检达标范围/逐小时统计_真实时间.csv",
+        "rows": 23
+      },
+      {
+        "table": "data/候选统计_未通过验收/全部时间窗统计.csv",
+        "rows": 1975
+      },
+      {
+        "table": "data/候选统计_未通过验收/分析时间缺口.csv",
+        "rows": 852
+      },
+      {
+        "table": "data/候选统计_未通过验收/总体汇总.csv",
+        "rows": 3
+      },
+      {
+        "table": "data/候选统计_未通过验收/拼接时间与原始时间对应.csv",
+        "rows": 247
+      },
+      {
+        "table": "data/候选统计_未通过验收/每5分钟统计_有效时间.csv",
+        "rows": 853
+      },
+      {
+        "table": "data/候选统计_未通过验收/每5分钟统计_真实时间.csv",
+        "rows": 968
+      },
+      {
+        "table": "data/候选统计_未通过验收/真实时间分段绘图数据.csv",
+        "rows": 1091
+      },
+      {
+        "table": "data/候选统计_未通过验收/逐小时统计_有效时间.csv",
+        "rows": 72
+      },
+      {
+        "table": "data/候选统计_未通过验收/逐小时统计_真实时间.csv",
+        "rows": 82
+      }
+    ],
+    "meaning": "与冻结逐图数据的历史统计一致；不代表B/C计数准确性通过验收"
+  },
+  "excel": {
+    "rows_checked": 26403,
+    "fields_checked": [
+      "frame_id",
+      "auto_left_count",
+      "auto_right_count",
+      "left_count",
+      "right_count"
+    ],
+    "matches_csv": true
+  },
+  "figure_technical": {
+    "files": [
+      "01_时间曲线_有效时间拼接_中文.png",
+      "01_时间曲线_有效时间拼接_中文_待复核.png",
+      "02_逐小时分布_有效时间拼接_中文.png",
+      "02_逐小时分布_有效时间拼接_中文_待复核.png",
+      "03_真实时间曲线_保留缺口_中文.png",
+      "03_真实时间曲线_保留缺口_中文_待复核.png"
+    ],
+    "formats": [
+      "SVG",
+      "PDF",
+      "300dpi PNG"
+    ],
+    "visual_inspection_still_required": true,
+    "visual_inspection_scope": "已目视检查figure_visual列出的两张候选PNG；其余四张图只做技术检查"
+  },
+  "figure_visual": {
+    "inspected_png": [
+      "01_时间曲线_有效时间拼接_中文_待复核.png",
+      "02_逐小时分布_有效时间拼接_中文_待复核.png"
+    ],
+    "chinese_labels_legible": true,
+    "curve_continuous": true,
+    "join_markers_visible": true,
+    "candidate_status_visible": true,
+    "note": "回补组失焦导致小缺口多，横轴刻线较密；沿用冻结绘图样式。此检查不是原图计数精度验收。",
+    "native_excel_visual_qa_performed": false
+  },
+  "tests": {
+    "executed": 9,
+    "passed": 9,
+    "scope": "temporary fixtures and synthetic integration values, not experiment data"
+  },
+  "relocation": {
+    "python": "3.13.9",
+    "executable": "/opt/miniconda3/bin/python",
+    "modules": {
+      "numpy": "2.4.4",
+      "pandas": "3.0.2",
+      "cv2": "installed; distribution name differs",
+      "scipy": "1.17.1",
+      "skimage": "0.26.0",
+      "sklearn": "1.9.0",
+      "matplotlib": "3.11.0",
+      "openpyxl": "3.1.5",
+      "PIL": "12.2.0",
+      "joblib": "1.5.3",
+      "fitz": "1.27.2.3"
+    },
+    "missing": [],
+    "asset_files_verified": 65,
+    "chinese_font": "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+    "reference_environment": {
+      "numpy": "2.4.4",
+      "pandas": "3.0.2",
+      "cv2": "4.13.0",
+      "scipy": "1.17.1",
+      "skimage": "0.26.0",
+      "sklearn": "1.9.0",
+      "matplotlib": "3.11.0",
+      "openpyxl": "3.1.5",
+      "PIL": "12.2.0",
+      "joblib": "1.5.3",
+      "python": "3.13.9",
+      "system": "macOS-27.0-arm64-arm-64bit-Mach-O",
+      "machine": "arm64"
+    },
+    "relocated_to_new_path": true,
+    "test_scope": "把Skill复制到另一目录后检查资源与环境；未再次全量检测原图"
+  },
+  "scripts": {
+    "test_contracts.py": "85624e946cca009c57f6d8088e699f44c283a1d6c272c1d7803aaa284ca45bb8",
+    "workflow.py": "dadb707d4c31d95c200707d87b2c01c72751cedc1e67f5b7def932d371d23a9a"
+  },
+  "full_native_detection_rerun_during_skill_creation": false,
+  "independent_human_expert_accuracy_validation": false,
+  "BC_accuracy_acceptance": false
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "sample_id": "A_cal_01",
+    "bbox": [
+      1757,
+      1151,
+      81,
+      162
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 5
+  },
+  {
+    "sample_id": "A_cal_01",
+    "bbox": [
+      1762,
+      360,
+      72,
+      144
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 6
+  },
+  {
+    "sample_id": "A_cal_01",
+    "bbox": [
+      3307,
+      1993,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 10
+  },
+  {
+    "sample_id": "A_cal_01",
+    "bbox": [
+      3649,
+      1267,
+      72,
+      144
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 12
+  },
+  {
+    "sample_id": "A_cal_11",
+    "bbox": [
+      1509,
+      647,
+      91,
+      182
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 15
+  },
+  {
+    "sample_id": "A_cal_11",
+    "bbox": [
+      3638,
+      1264,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 28
+  },
+  {
+    "sample_id": "A_cal_11",
+    "bbox": [
+      3658,
+      944,
+      72,
+      144
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 29
+  },
+  {
+    "sample_id": "A_cal_20",
+    "bbox": [
+      3341,
+      1900,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 25
+  },
+  {
+    "sample_id": "A_cal_20",
+    "bbox": [
+      3648,
+      1264,
+      64,
+      128
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 28
+  },
+  {
+    "sample_id": "A_cal_20",
+    "bbox": [
+      3633,
+      938,
+      96,
+      192
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 29
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      1085,
+      1340,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 6
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      1221,
+      848,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 8
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      1684,
+      60,
+      96,
+      192
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 9
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      1818,
+      1020,
+      81,
+      162
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 11
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      2349,
+      85,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 17
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      2612,
+      85,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 18
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      2966,
+      81,
+      72,
+      144
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 19
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      3227,
+      90,
+      72,
+      144
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 20
+  },
+  {
+    "sample_id": "B_cal_01",
+    "bbox": [
+      3560,
+      2208,
+      64,
+      128
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 21
+  },
+  {
+    "sample_id": "B_cal_11",
+    "bbox": [
+      1096,
+      2268,
+      76,
+      152
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 8
+  },
+  {
+    "sample_id": "B_cal_11",
+    "bbox": [
+      1222,
+      818,
+      81,
+      162
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 16
+  },
+  {
+    "sample_id": "B_cal_11",
+    "bbox": [
+      2355,
+      32,
+      86,
+      171
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 33
+  },
+  {
+    "sample_id": "B_cal_11",
+    "bbox": [
+      2629,
+      68,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 36
+  },
+  {
+    "sample_id": "B_cal_11",
+    "bbox": [
+      3570,
+      2247,
+      68,
+      136
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 41
+  },
+  {
+    "sample_id": "B_cal_20",
+    "bbox": [
+      495,
+      553,
+      76,
+      152
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 1
+  },
+  {
+    "sample_id": "B_cal_20",
+    "bbox": [
+      1050,
+      0,
+      81,
+      162
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 4
+  },
+  {
+    "sample_id": "B_cal_20",
+    "bbox": [
+      1083,
+      1323,
+      96,
+      192
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 7
+  },
+  {
+    "sample_id": "B_cal_20",
+    "bbox": [
+      1222,
+      828,
+      81,
+      162
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 9
+  },
+  {
+    "sample_id": "B_cal_20",
+    "bbox": [
+      1411,
+      54,
+      72,
+      144
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 10
+  },
+  {
+    "sample_id": "B_cal_20",
+    "bbox": [
+      1734,
+      48,
+      76,
+      152
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 12
+  },
+  {
+    "sample_id": "B_cal_20",
+    "bbox": [
+      2345,
+      32,
+      86,
+      171
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 17
+  },
+  {
+    "sample_id": "C_cal_11",
+    "bbox": [
+      635,
+      862,
+      91,
+      182
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 14
+  },
+  {
+    "sample_id": "C_cal_20",
+    "bbox": [
+      640,
+      896,
+      64,
+      128
+    ],
+    "kind": "leaf_stem_or_box_texture",
+    "review": "model_visual_on_overlay",
+    "prototype_index": 10
+  }
+]

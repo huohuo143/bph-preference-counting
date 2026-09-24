@@ -1,0 +1,49 @@
+{
+  "source_root": "/Volumes/FAFU 二次备份/2022-11-09   褐飞虱偏好性",
+  "groups": [
+    {
+      "id": "A",
+      "label": "ZH11 B3-OE",
+      "source_folder": "/Volumes/FAFU 二次备份/2022-11-09   褐飞虱偏好性/2023-05-26   ZH11  B3-OE",
+      "n_images": 8019,
+      "visible_plants_per_side": 5,
+      "left": "对照",
+      "right": "抗性"
+    },
+    {
+      "id": "B",
+      "label": "BPH33",
+      "source_folder": "/Volumes/FAFU 二次备份/2022-11-09   褐飞虱偏好性/2023-05-27   BPH33",
+      "n_images": 7462,
+      "visible_plants_per_side": 5,
+      "left": "对照",
+      "right": "抗性"
+    },
+    {
+      "id": "C",
+      "label": "BPH33回补",
+      "source_folder": "/Volumes/FAFU 二次备份/2022-11-09   褐飞虱偏好性/2023-05-28  BPH33回补",
+      "n_images": 10922,
+      "visible_plants_per_side": 4,
+      "left": "对照",
+      "right": "抗性"
+    }
+  ],
+  "primary_endpoint": "visible BPH occupying plant stems or leaves",
+  "count_unit": "left/right side totals",
+  "max_integrated_interval_seconds": 15,
+  "curve_bin_seconds": 300,
+  "heatmap_bin_seconds": 3600,
+  "raw_preserved": true,
+  "external_upload": false,
+  "calibration_per_group": 20,
+  "holdout_per_group": 30,
+  "mae_limit": 1.0,
+  "within_two_limit": 0.95,
+  "python": "/opt/miniconda3/bin/python",
+  "created_at": "2026-09-16T16:13:34.856314",
+  "effective_curve_connect_segments": true,
+  "splice_marker_position": "x_axis",
+  "splice_marker_label": "衔接",
+  "integrate_acquisition_gaps": false
+}

@@ -1,0 +1,25 @@
+{
+  "version": "local-hog-color-20260916-v1",
+  "fingerprint": "24cc7e7f926b5b7e",
+  "files": {
+    "scripts/vision.py": "d10016f0b18f638055a1aedefcf8eb5dfe5197ce561be21a6c06ffa96628b0fa",
+    "scripts/hog_detector.py": "9a7b3a6494c548978829320fe08481b0c9894b2f1108235fd1ee35973e3cc3cf",
+    "scripts/hybrid_detector.py": "f18557d7c6296b20b277ffa981500daaf5a82f1c789dd9855456bc7a69d3fb4a",
+    "cache/hog_weights.npy": "a92ff08cabbbbc6c447fc17621621da2ca0f0e1bf3150c7d5e15390095fb0cf5",
+    "cache/A_background.npz": "9b732f440650c026cfb239786f27e5c3e05976f02350315917c762bb4ea39b1a",
+    "cache/B_background.npz": "c5d04ece08fc99eb1b14cb097dc86518f1127933bdff2c2e572d4da925e598dc",
+    "cache/C_background.npz": "d61fb40ff85965302dcbdc70cc12e02665cd052987154de36576d1b5072a5a73"
+  },
+  "parameters": {
+    "hog_hit": 0.3,
+    "minimum_score": 0.65,
+    "minimum_gray_q95": 0.07,
+    "minimum_raw_chromatic_median": -0.055,
+    "nms_x": 48,
+    "nms_y": 82
+  },
+  "python": "3.13.9",
+  "opencv": "4.13.0",
+  "numpy": "2.4.4",
+  "created_at": "2026-09-16T16:56:21.030327"
+}

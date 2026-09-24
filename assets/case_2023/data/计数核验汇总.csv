@@ -1,0 +1,13 @@
+﻿version,group,group_label,side,selected_samples,usable_reference_sides,unresolved_reference_sides,mae,within_two_fraction,numerical_target_on_usable_sides,initial_model_visual_check_passed,independent_human_expert,evaluation_role
+v1,A,ZH11 B3-OE,left,30,30,0,0.8333333333333334,0.9666666666666667,True,True,False,初始留出核验
+v1,A,ZH11 B3-OE,right,30,30,0,0.6666666666666666,1.0,True,True,False,初始留出核验
+v1,B,BPH33,left,30,17,13,3.0588235294117645,0.4117647058823529,False,False,False,初始留出核验
+v1,B,BPH33,right,30,20,10,2.0,0.6,False,False,False,初始留出核验
+v1,C,BPH33回补,left,30,7,23,2.142857142857143,0.42857142857142855,False,False,False,初始留出核验
+v1,C,BPH33回补,right,30,20,10,0.75,1.0,True,False,False,初始留出核验
+v2_候选修正未采用,A,ZH11 B3-OE,left,30,30,0,0.8333333333333334,0.9666666666666667,True,False,False,首轮失败后探索性对照；不可作为新的留出验收
+v2_候选修正未采用,A,ZH11 B3-OE,right,30,30,0,0.6666666666666666,1.0,True,False,False,首轮失败后探索性对照；不可作为新的留出验收
+v2_候选修正未采用,B,BPH33,left,30,17,13,2.764705882352941,0.5294117647058824,False,False,False,首轮失败后探索性对照；不可作为新的留出验收
+v2_候选修正未采用,B,BPH33,right,30,20,10,2.1,0.6,False,False,False,首轮失败后探索性对照；不可作为新的留出验收
+v2_候选修正未采用,C,BPH33回补,left,30,7,23,2.2857142857142856,0.5714285714285714,False,False,False,首轮失败后探索性对照；不可作为新的留出验收
+v2_候选修正未采用,C,BPH33回补,right,30,20,10,0.75,1.0,True,False,False,首轮失败后探索性对照；不可作为新的留出验收

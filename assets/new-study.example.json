@@ -1,0 +1,25 @@
+{
+  "profile": "new-study",
+  "groups": [
+    {
+      "id": "E1",
+      "label": "新实验名称",
+      "source_folder": "/替换为新照片目录",
+      "left_label": "对照",
+      "right_label": "抗性",
+      "plants_per_side": null
+    }
+  ],
+  "calibration_per_group": 20,
+  "holdout_per_group": 30,
+  "max_integrated_interval_seconds": 15,
+  "curve_bin_seconds": 300,
+  "heatmap_bin_seconds": 3600,
+  "connect_effective_curves": true,
+  "splice_label": "衔接",
+  "acceptance": {
+    "mae_limit_per_side": 1,
+    "within_two_min_fraction": 0.95
+  },
+  "validation_status": "pending"
+}

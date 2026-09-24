@@ -1,0 +1,336 @@
+{
+  "skill_version": "1.0.0",
+  "profile": "fafu-2023-v1",
+  "files": [
+    {
+      "path": "assets/case_2023/data/independent_visual_reference.json",
+      "bytes": 40128,
+      "sha256": "9ff08c54fac727ed508781ecf6111f7c0bf1104323489a484f11106340f3f4bf"
+    },
+    {
+      "path": "assets/case_2023/data/inventory_summary.json",
+      "bytes": 1104,
+      "sha256": "8e18333312b6907d4bf75e570dbe439593aa76d0e700fd73697b89a5ed4d39b2"
+    },
+    {
+      "path": "assets/case_2023/data/project_config.json",
+      "bytes": 1534,
+      "sha256": "038be85aa11dac343b5334eb2738c2778d127d365a5535d8e12d82e69c8524f4"
+    },
+    {
+      "path": "assets/case_2023/data/reviewed_negative_boxes.json",
+      "bytes": 6886,
+      "sha256": "c3627a597c72af53af1be79ae0015d3ae66bd9b684dc6b2862b5af89e5189c2d"
+    },
+    {
+      "path": "assets/case_2023/data/run_0974eb1d99dfc8f5/detector_manifest.json",
+      "bytes": 1088,
+      "sha256": "3d2908acba8f1be8c27670ed1113ae51113a353d1222fd55e903271b3e3d7d55"
+    },
+    {
+      "path": "assets/case_2023/data/run_0974eb1d99dfc8f5/samples_checkpoint.jsonl",
+      "bytes": 4508940,
+      "sha256": "b8815a0c85e42591cb41affad789693e6c247066b12e0e7df1ebd20b1a209b7c"
+    },
+    {
+      "path": "assets/case_2023/data/run_4e84dd351c3bac11/detector_manifest.json",
+      "bytes": 1072,
+      "sha256": "2075a1a7651f34d7f01b55b783a6621fd862ee7de6f8be16e8897bce7b2a493f"
+    },
+    {
+      "path": "assets/case_2023/data/run_4e84dd351c3bac11/samples_checkpoint.jsonl",
+      "bytes": 4658414,
+      "sha256": "ffbad0e13dab65ca0b076177defb2a434fcb09da16ec760324d02a0b83472f5a"
+    },
+    {
+      "path": "assets/case_2023/data/sample_manifest.json",
+      "bytes": 87151,
+      "sha256": "eb45cddab39db6e00add4e266da096d36e10bf6e6c37a80e9c77db9fa2b45237"
+    },
+    {
+      "path": "assets/case_2023/data/sample_selection.json",
+      "bytes": 65621,
+      "sha256": "2bb93c3211fe672ee85038087dae2e9ea71ef0128f44c3fc9fed2edf84ffa900"
+    },
+    {
+      "path": "assets/case_2023/data/single_body_training_points.json",
+      "bytes": 8356,
+      "sha256": "b19b3d975b5c02cbf61eca519b14a23fd91d50f3aa9be32de40fc7a27cf096d5"
+    },
+    {
+      "path": "assets/case_2023/data/优先复核照片.csv",
+      "bytes": 19203,
+      "sha256": "be498a5559457d38a124cbc7aa9081b84b0ae341289d7e4275c2ae3da3f88e6d"
+    },
+    {
+      "path": "assets/case_2023/data/图片清单.csv.gz",
+      "bytes": 657527,
+      "sha256": "36136a12cd9218119e3c470d63387165337d71c09171d703ae5f5b530ee63fd2"
+    },
+    {
+      "path": "assets/case_2023/data/拍摄时间缺口.csv",
+      "bytes": 1249,
+      "sha256": "7d9003cd9410aee00105c1089edfa974f9c4712e6009c8c5151063569579946a"
+    },
+    {
+      "path": "assets/case_2023/data/标注样本索引.csv",
+      "bytes": 59329,
+      "sha256": "2f7b7d270926e091df5ee47efc153535513a1e51c0578b6a21bc3833637b511f"
+    },
+    {
+      "path": "assets/case_2023/data/校准与留出样本.csv",
+      "bytes": 34826,
+      "sha256": "5dc569d7d2dafa3a7d09e91b71499fb6611ed2df1244268f74ce2f649ccd0a59"
+    },
+    {
+      "path": "assets/case_2023/data/计数核验汇总.csv",
+      "bytes": 1722,
+      "sha256": "120799027b86c2f947e302dddcf81cd22eeb63ba8069c72b61400382dd64a54b"
+    },
+    {
+      "path": "assets/case_2023/data/运行环境版本.json",
+      "bytes": 310,
+      "sha256": "3817b9b57f879692b31e256b1a145610a6bd1dfd492424e2930b58ba8d4676e1"
+    },
+    {
+      "path": "assets/case_2023/data/逐图计数与质量.csv.gz",
+      "bytes": 2787130,
+      "sha256": "4c8b97470686b830d458495c25871e2f652f706111662b593c3525b3f1b951e7"
+    },
+    {
+      "path": "assets/case_2023/data/逐样本核验对照.csv",
+      "bytes": 62654,
+      "sha256": "511a39e59d6cfc1bb9e61109797c7650bfce818c017863b380e436456a1aa42f"
+    },
+    {
+      "path": "assets/case_2023/detector_manifest.json",
+      "bytes": 1072,
+      "sha256": "843681cfbfa6c7b3e987c7f354e082f4c9b7b09b0f1221bb5a40e1474cc2dd33"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/全部时间窗统计.csv.gz",
+      "bytes": 83712,
+      "sha256": "94e54bc8f93698c6d0afa0ac6761be666a84f1bc848d495c5b059c4ef59acc2b"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/分析时间缺口.csv.gz",
+      "bytes": 9265,
+      "sha256": "11f2e1967fb75b68db53051207822cf9eb9d202b5955904a027dc82e27efae99"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/总体汇总.csv.gz",
+      "bytes": 553,
+      "sha256": "e22e3fbd6e2d8ba82a778834cb23f08e06ccd24cc73a785357abc48e4a3b18e1"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/拼接时间与原始时间对应.csv.gz",
+      "bytes": 4951,
+      "sha256": "4a67c7a6a4c1530b684f6938f85e76bc9d61232df73a53f9959ab28c2f6d1ff2"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/每5分钟统计_有效时间.csv.gz",
+      "bytes": 36398,
+      "sha256": "dceaa8a0b3bdceeb54002cd7c2c87a09a4a6372a6cce82f564ac13ca62d1c6b0"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/每5分钟统计_真实时间.csv.gz",
+      "bytes": 39782,
+      "sha256": "32b906f059fcdce333cce16fa4063463bf418e3ba04a47805688fcbfe774fdae"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/真实时间分段绘图数据.csv.gz",
+      "bytes": 47948,
+      "sha256": "833f753eaa5fdac00046892de38645e69d4c8d3708d90d15f3b0b55ffff10662"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/逐小时统计_有效时间.csv.gz",
+      "bytes": 3725,
+      "sha256": "7748420503c9c744aab0553a4613ad78d082a6e8c7ca6f13754e0eb9c55797a3"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/candidate/逐小时统计_真实时间.csv.gz",
+      "bytes": 4518,
+      "sha256": "53121df3eb4ad41508ffa299d488fe88173d57e09c603a3f60fc9154ac79e563"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/全部时间窗统计.csv.gz",
+      "bytes": 24461,
+      "sha256": "00411a37f89ee58cdf84b3a33a51f7d2da4c07dc48631157423f5d243989ecab"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/分析时间缺口.csv.gz",
+      "bytes": 173205,
+      "sha256": "e808050a149483ca00b2e8615274df5752b2bb2f2d9a56dc48fa4068cc0d8b6e"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/总体汇总.csv.gz",
+      "bytes": 453,
+      "sha256": "71d76d6efc0a3b71d985a3bf29751e74a68900a5ba6570ca1050cf0e537dfc94"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/拼接时间与原始时间对应.csv.gz",
+      "bytes": 239,
+      "sha256": "79e8f66fa44291242f4220f5b7e2434b3fd3a53213df7a9778347693c984f854"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/每5分钟统计_有效时间.csv.gz",
+      "bytes": 11242,
+      "sha256": "5d463296d30a19fa8fccb2e0587c6305df0ef8c68bc57d4385beb933872664a9"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/每5分钟统计_真实时间.csv.gz",
+      "bytes": 11339,
+      "sha256": "9a5bef4aa26df393c45e0b7f4f926cf546675c662a09d6756abdb2ffdfeb0006"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/真实时间分段绘图数据.csv.gz",
+      "bytes": 11045,
+      "sha256": "3851b56524de3e44cd1fe3b77f3f86f85a44f80bf2245eded6d647924f6e8a57"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/逐小时统计_有效时间.csv.gz",
+      "bytes": 1492,
+      "sha256": "20345dcc8a003360b9dd093a69cb5c956acc869884fa057647003d648d93057a"
+    },
+    {
+      "path": "assets/case_2023/expected_statistics/primary/逐小时统计_真实时间.csv.gz",
+      "bytes": 1506,
+      "sha256": "6a2b885d81edf1a4fdaade1291d804e6a2a00fb76786fdd342582f74bbbcd24f"
+    },
+    {
+      "path": "assets/case_2023/profile.json",
+      "bytes": 884,
+      "sha256": "07146d53ec48e7c6d77f051574051b588a9e2311a30e2b7c3d947869d816e8c0"
+    },
+    {
+      "path": "assets/fafu-2023.example.json",
+      "bytes": 338,
+      "sha256": "d5b8947eb2c757cb6a0eadbe7bc9305956aa4184b672dc496682cf2df91bee04"
+    },
+    {
+      "path": "assets/frozen_v1/cache/A_background.npz",
+      "bytes": 50398842,
+      "sha256": "9b732f440650c026cfb239786f27e5c3e05976f02350315917c762bb4ea39b1a"
+    },
+    {
+      "path": "assets/frozen_v1/cache/B_background.npz",
+      "bytes": 53471031,
+      "sha256": "c5d04ece08fc99eb1b14cb097dc86518f1127933bdff2c2e572d4da925e598dc"
+    },
+    {
+      "path": "assets/frozen_v1/cache/C_background.npz",
+      "bytes": 51265793,
+      "sha256": "d61fb40ff85965302dcbdc70cc12e02665cd052987154de36576d1b5072a5a73"
+    },
+    {
+      "path": "assets/frozen_v1/cache/hog_model.joblib",
+      "bytes": 30987,
+      "sha256": "be40b92bd6a24dfd990f2d79789d4e8610d47c374441ce18f77166be4276a37b"
+    },
+    {
+      "path": "assets/frozen_v1/cache/hog_weights.npy",
+      "bytes": 15252,
+      "sha256": "a92ff08cabbbbc6c447fc17621621da2ca0f0e1bf3150c7d5e15390095fb0cf5"
+    },
+    {
+      "path": "assets/frozen_v1/review/复核工具使用说明.md",
+      "bytes": 1376,
+      "sha256": "e01fde6fe009132bbc141d346f578ca0997b438c921b4be0068ab0e8e7adbcc5"
+    },
+    {
+      "path": "assets/frozen_v1/review/照片复核.html",
+      "bytes": 7932,
+      "sha256": "f3a94cf2496caf1890199b954a7d207d2d4f784492c9c202f9508ca74aafe647"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/export_results.py",
+      "bytes": 13094,
+      "sha256": "6ee577e9c3c98d725c9fae1ad3a04054d39c39dbf4c19cd2a93e6c57157d5321"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/figures.py",
+      "bytes": 7988,
+      "sha256": "9abb1de255ecd5afa47f0a8c069732f1c966142c83fad8f3dc616d23636d60b4"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/hog_detector.py",
+      "bytes": 6662,
+      "sha256": "9a7b3a6494c548978829320fe08481b0c9894b2f1108235fd1ee35973e3cc3cf"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/hybrid_detector.py",
+      "bytes": 6943,
+      "sha256": "f18557d7c6296b20b277ffa981500daaf5a82f1c789dd9855456bc7a69d3fb4a"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/hybrid_detector_v2.py",
+      "bytes": 7004,
+      "sha256": "b038b3c49632530c280a8f494a855672415bd55ac438d1ee260062bbe1b93bca"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/inventory.py",
+      "bytes": 3910,
+      "sha256": "159a532839457b140989210cfee3835ed92837f7551fdb7ca2c307354f09cd8a"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/prepare_samples.py",
+      "bytes": 1900,
+      "sha256": "1eeb120d24c35e35ef177fbce89561b6c8bd270bb255a0a4a80f7f242173f3e1"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/priority_evidence.py",
+      "bytes": 3317,
+      "sha256": "255a4fbadf360d715fb63c94f96c1dfdc3dc0290c5a2dec487f769b86e2ac9aa"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/report_results.py",
+      "bytes": 20740,
+      "sha256": "53835b70ddfb6fc256aff08f76963ca32bf416e371150ebdea327e6be59f9110"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/review_server.py",
+      "bytes": 5478,
+      "sha256": "27f20361e44455bdae053f13d73c9c03dd57d5876e0530fbf280974cca1d3fac"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/run_batch.py",
+      "bytes": 6607,
+      "sha256": "02d7e079b243eb9cdc5e51c61cae244bb83e9fdcca912be73a923cf06ad50fc3"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/run_batch_v2.py",
+      "bytes": 6616,
+      "sha256": "aa44870bffb9426b6f7b0fcb6d148de9a46c6dff43909b23550bcec684599704"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/summarize.py",
+      "bytes": 5916,
+      "sha256": "592cce155ec110c7fb6fba7c63ed04ff0ab7c6b145f64e3958308c051eda418f"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/test_statistics.py",
+      "bytes": 1352,
+      "sha256": "48789c03993ea5ee78b2e28622402437b2b1582c22304906b9bb7f29d86388ca"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/verify_deliverables.py",
+      "bytes": 5767,
+      "sha256": "1af8e17b209e0c7d7be05ef16c80546ebf1a39820120993530e22f630f9d949d"
+    },
+    {
+      "path": "assets/frozen_v1/scripts/vision.py",
+      "bytes": 8093,
+      "sha256": "d10016f0b18f638055a1aedefcf8eb5dfe5197ce561be21a6c06ffa96628b0fa"
+    },
+    {
+      "path": "assets/new-study.example.json",
+      "bytes": 598,
+      "sha256": "b160348786edde3837372d62c5564541965e96e5da934645968033cf9652ecef"
+    },
+    {
+      "path": "assets/validation_20260916.json",
+      "bytes": 7859,
+      "sha256": "ea0740c4cd6e3208d7a3effc67d0bd287774c1631c25c8124ecc16e35d45afae"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "group": "A",
+    "n": 8019,
+    "first": "2023-05-25 21:19:54",
+    "last": "2023-05-26 19:57:44",
+    "intervals": {
+      "10.0": 8003,
+      "11.0": 7,
+      "9.0": 7,
+      "1300.0": 1
+    },
+    "elapsed_hours": 22.630555555555556,
+    "potentially_observed_hours": 22.269444444444446,
+    "timestamp_duplicates": 0,
+    "metadata_errors": 0
+  },
+  {
+    "group": "B",
+    "n": 7462,
+    "first": "2023-05-26 20:27:03",
+    "last": "2023-05-27 20:46:23",
+    "intervals": {
+      "10.0": 7454,
+      "11.0": 3,
+      "9.0": 3,
+      "12960.0": 1
+    },
+    "elapsed_hours": 24.322222222222223,
+    "potentially_observed_hours": 20.72222222222222,
+    "timestamp_duplicates": 0,
+    "metadata_errors": 0
+  },
+  {
+    "group": "C",
+    "n": 10922,
+    "first": "2023-05-27 21:02:33",
+    "last": "2023-05-29 06:38:23",
+    "intervals": {
+      "10.0": 10913,
+      "11.0": 3,
+      "9.0": 3,
+      "30.0": 1,
+      "11730.0": 1
+    },
+    "elapsed_hours": 33.59722222222222,
+    "potentially_observed_hours": 30.330555555555556,
+    "timestamp_duplicates": 0,
+    "metadata_errors": 0
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "numpy": "2.4.4",
+  "pandas": "3.0.2",
+  "cv2": "4.13.0",
+  "scipy": "1.17.1",
+  "skimage": "0.26.0",
+  "sklearn": "1.9.0",
+  "matplotlib": "3.11.0",
+  "openpyxl": "3.1.5",
+  "PIL": "12.2.0",
+  "joblib": "1.5.3",
+  "python": "3.13.9",
+  "system": "macOS-27.0-arm64-arm-64bit-Mach-O",
+  "machine": "arm64"
+}
